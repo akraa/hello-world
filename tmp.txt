@@ -2,3 +2,7 @@
 Hello, this is just a test file. I am trying to learn Git and wanted a file to try to add into the repository.
 
 Have a nice day.
+
+******************
+
+Okay, I've commited this file once already. Now I'm adding text to try it all over again.
