@@ -1,0 +1,4 @@
+
+Hello, this is just a test file. I am trying to learn Git and wanted a file to try to add into the repository.
+
+Have a nice day.
